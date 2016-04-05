@@ -5,11 +5,10 @@
     "Alexander Tash <atash@rxsavingsllc.com>"
   ],
   "description": "TEST PKG PLZ IGNOAR",
-  "main": "sass/stylesheet.sass",
-  "moduleType": [],
+  "main": "assets/sass/stylesheet.sass",
+  "moduleType": "globals",
   "license": "MIT",
   "homepage": "",
-  "private": true,
   "dependencies": {
     "bootstrap-sass": "bootstrap-sass-official#3.3.5"
   },
